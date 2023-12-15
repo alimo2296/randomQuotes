@@ -1,0 +1,18 @@
+h1{
+    font-size: 80px;
+    font-weight: 800;
+}
+p{
+    font-size: 35px;
+}
+div.centre{
+    margin: auto;
+    text-align: center;
+
+}
+button{
+    background-color: blue;
+}
+button:hover{
+    background-color:green;
+}
